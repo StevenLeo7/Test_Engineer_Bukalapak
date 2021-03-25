@@ -17,3 +17,5 @@ Flanky Test
 3.	We can test the page with pass the test CAPTCHA. For example we encounter image CAPTCHA, then what we should do is input text in image with case sensitive to pass the test and if image CAPTCHA not viewable then user can reCAPTCHA to get new image.
 
 Essay Question Topic
+
+I can't answer this section because my lack of skill, i really appriciate for giving me a chance to participate in this test. Thank you 
